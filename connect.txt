@@ -1,0 +1,4 @@
+$servername = "sql110.infinityfree.com";
+$username = "if0_39860558";
+$password = "cwclewmYDD";
+$dbname = "if0_39860558_mindmatters";
